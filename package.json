@@ -1,0 +1,23 @@
+{
+  "name": "react-contextx-madanbazgai",
+  "version": "1.0.0",
+  "description": "simple react context menu",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist"
+  },
+  "keywords": [
+    "react",
+    "nextjs",
+    "context-menu"
+  ],
+  "author": "madanbazgai",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "@babel/preset-react": "^7.23.3"
+  }
+}
